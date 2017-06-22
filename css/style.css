@@ -19,7 +19,7 @@ main {
 
 }
 
-h1, h2, a {
+h1, h2, h3, a {
 	text-transform: uppercase;
 	font-family: Raleway;
 	color: #0D2C40;
@@ -46,6 +46,13 @@ h1 {
 h2 {
 	font-weight: 600;
 	font-size: 20px;
+}
+
+h3 {
+	font-family: "Droid Serif", serif;
+	font-size: 18px;
+	font-weight: 600;
+	text-transform: none;
 }
 
 p {
